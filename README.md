@@ -1,6 +1,6 @@
 Plato Digital Academy SQA Written Test
 
-1. Test Scenario and Test Case
+//1. Test Scenario and Test Case
     https://docs.google.com/spreadsheets/d/1LurAj9130dZkdrGoJAe_aL7U86PRw78z9OMUD713g-k/edit?usp=sharing
 
 //2. Bug Reporting
