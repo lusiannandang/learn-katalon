@@ -10,7 +10,7 @@ Plato Digital Academy SQA Written Test
       Script is in this repository, you can see it in /Scripts/TC001-Register/Script1668870840966.groovy
       Screen record for the test https://drive.google.com/file/d/1SWyaMLbouBf50Gi4G3Sg_JYW7pBOb6E3/view?usp=share_link
       
-//3. API Testing
+//4. API Testing
      
  
 //Gdrive for test all the document https://drive.google.com/drive/folders/1FZ0PT_G8YMUSb3ANFX6cBaYzO70ONRf6?usp=share_link
