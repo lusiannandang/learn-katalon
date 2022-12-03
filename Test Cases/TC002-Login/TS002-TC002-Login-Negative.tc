@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative Test</description>
+   <name>TS002-TC002-Login-Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19541046-20eb-4389-b050-e35c40bf010c</testCaseGuid>
+</TestCaseEntity>

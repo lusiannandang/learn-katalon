@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive Test</description>
+   <name>TS002-TC001-Login-Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6b9303a-926c-408f-8069-e2af9dcbef74</testCaseGuid>
+</TestCaseEntity>
